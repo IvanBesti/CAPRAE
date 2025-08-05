@@ -32,6 +32,7 @@ A lightweight data enrichment and lead scoring tool built with Streamlit for pri
 4. **Open your browser**
    - The app will automatically open at `http://localhost:8501`
    - If it doesn't open automatically, navigate to the URL shown in your terminal
+   - Or click this link https://caprae-assignment.streamlit.app/
 
 ## Features
 
