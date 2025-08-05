@@ -174,4 +174,4 @@ The prototype showcases key skills in data science, web development, and busines
 
 ## Support
 
-For technical issues or questions about the implementation, refer to the code comments in `enrich.py` and `app.py` for detailed explanations of the algorithms and logic. 
+For technical issues or questions about the implementation, refer to the code comments in `enrich.py` and `app.py` for detailed explanations of the algorithms and logic.
